@@ -5,3 +5,4 @@
 1st file has logistic and knn models 
 2nd file has random forest model
 3rd file has linear model
+4th file has Guassian NB and Decision tree
